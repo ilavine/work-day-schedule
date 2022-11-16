@@ -6,13 +6,13 @@ This a simple calendar application created with the [Moment.js](https://momentjs
 
 ## Links 
 
-[GitHub Page](https://ilavine.github.io/workday-scheduler/)
+[GitHub Page](https://ilavine.github.io/work-day-schedule/)
 <br>
-[Repo](https://github.com/ilavine/workday-scheduler)
+[Repo](https://github.com/ilavine/work-day-schedule)
 
-## Mock-up
+## Demo 
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/schedule.gif)
+![A user clicks on slots on the color-coded calendar and edits the events.](Assets/demo.png)
 
 ## User Story
 
